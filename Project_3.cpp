@@ -1,5 +1,5 @@
 /**
- * main.cpp
+ * Project_3.cpp
  *
  * FERRER, Matt Brycen L.
  * ENGG 24 - F
